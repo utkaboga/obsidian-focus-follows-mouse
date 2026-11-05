@@ -1,0 +1,11 @@
+{
+  "id": "focus-follows-mouse",
+  "name": "Focus Follows Mouse",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Automatically activates the main workspace pane when the mouse pointer enters it.",
+  "author": "utkaboga",
+  "authorUrl": "https://github.com/utkaboga",
+  "fundingUrl": "https://ko-fi.com/utkaboga",
+  "isDesktopOnly": true
+}

@@ -1,10 +1,11 @@
+
 # Focus Follows Mouse (Obsidian plugin)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/utkaboga)
 
 A small **desktop-only** plugin that makes focus follow the mouse between panes in Obsidian's main workspace.
 
-![demo](demo.gif)
+<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/a3339f60-096d-4721-842b-0e2aacc0f37c" />
 
 ## Install
 

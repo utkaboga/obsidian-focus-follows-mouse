@@ -4,7 +4,7 @@
 
 A small **desktop-only** plugin that makes focus follow the mouse between panes in Obsidian's main workspace.
 
-![demo](demo.gif)
+<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/56faeb81-4e43-4cf6-9415-3803e363aeae" />
 
 ## Install
 
